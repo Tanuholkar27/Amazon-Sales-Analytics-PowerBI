@@ -68,6 +68,9 @@ Maharashtra generated the highest sales.
 April recorded the highest monthly sales.
 
 Set category contributed the highest sales.
+
 Maharashtra generated the highest sales.
+
 April recorded the highest monthly sales.
+
 Set category contributed the highest sales.
