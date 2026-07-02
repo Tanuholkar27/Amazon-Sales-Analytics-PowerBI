@@ -40,22 +40,33 @@ Monthly Sales Trend
 State-wise Sales
 # Product Performance
 Sales by Category
+
 Sales by SKU
+
 Sales by Size
 # Regional & Order Analysis
 Sales by State
+
 Fulfillment Analysis
+
 Order Status
+
 Sales Channel
 # Business Insights
 Key Findings
+
 Recommendations
 # Key Insights
 Total Sales: 75 Million
+
 Total Orders: 106K
+
 Total Quantity: 114K
+
 Maharashtra generated the highest sales.
+
 April recorded the highest monthly sales.
+
 Set category contributed the highest sales.
 Maharashtra generated the highest sales.
 April recorded the highest monthly sales.
